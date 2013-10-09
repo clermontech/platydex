@@ -11,7 +11,7 @@ file](https://github.com/clermontech/documents/blob/master/resources/logo/clermo
 
 ![](http://clermontech.org/images/clermontech_mascotte_400px.png)
 
-We need you to make new awesome Platypus! 
+We need you to make new awesome Platypus!
 
 
 ## Contributing
