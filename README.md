@@ -11,7 +11,7 @@ file](https://github.com/clermontech/documents/blob/master/resources/logo/clermo
 
 ![](http://clermontech.org/images/clermontech_mascotte_400px.png)
 
-We need you to make new awesome Platypus! 
+We need you to make new awesome Platypus!
 
 
 ## Contributing
@@ -28,5 +28,7 @@ Thank you for contributing!
 
 
 ## License
+
+Original by Sophie Navas [@agou](http://www.sophienavas.fr)
 
 [![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
