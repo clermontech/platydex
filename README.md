@@ -18,7 +18,7 @@ We need you to make new awesome Platypus!
 
 Submit a Pull Request with:
 
-* a preview of your Platypus (`.png` file);
+* a preview of your Platypus (`.png` file — 600x600px);
 * the `.ai` or `.psd` file (or any other vector-based file format).
 
 **Important:** your work MUST be licensed under the [Creative Commons Attribution-ShareAlike 3.0
